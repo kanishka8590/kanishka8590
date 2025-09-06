@@ -69,7 +69,7 @@
 
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="[#](https://www.linkedin.com/in/kanishka-sharma-13abb7351/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/kanishka-sharma-13abb7351/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" /></a>
 </p>
