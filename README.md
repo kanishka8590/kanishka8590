@@ -48,7 +48,7 @@
 ## 📌 Pinned Projects  
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME/PROJECT_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka8590&repo=PROJECT_1&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka8590&repo=TaskManagementTool&theme=tokyonight" />
   </a>
   <a href="https://github.com/YOUR_USERNAME/PROJECT_2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka8590&repo=PROJECT_2&theme=tokyonight" />
