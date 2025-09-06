@@ -32,15 +32,15 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanishka8590&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka8590&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishka8590&theme=tokyo-night" />
 </p>
 
 ---
@@ -48,19 +48,19 @@
 ## 📌 Pinned Projects  
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME/PROJECT_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka8590&repo=PROJECT_1&theme=tokyonight" />
   </a>
   <a href="https://github.com/YOUR_USERNAME/PROJECT_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka8590&repo=PROJECT_2&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME/PROJECT_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_3&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka8590&repo=PROJECT_3&theme=tokyonight" />
   </a>
   <a href="https://github.com/YOUR_USERNAME/PROJECT_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_4&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka8590&repo=PROJECT_4&theme=tokyonight" />
   </a>
 </p>
 
@@ -83,5 +83,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kanishka8590&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
 </p>
