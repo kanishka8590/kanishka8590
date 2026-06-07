@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kanishka</h1>
+<h1 align="center">Hi 👋  I'm Kanishka</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Computer+Science+Engineering+Student;Passionate+Developer+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%93%9A;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
@@ -6,14 +6,15 @@
 
 ---
 
-🚀 Passionate Computer Science Engineering student exploring software development, problem-solving, and innovative technologies. I enjoy building projects, learning new tools, and sharing knowledge. My interests include programming, open-source, AI, and creating impactful solutions for real-world problems.  
+A Passionate Computer Science Engineering student exploring software development, problem-solving, and innovative technologies. I enjoy building projects, learning new tools, and sharing knowledge. My interests include programming, open-source, AI, and creating impactful solutions for real-world problems.  
 
 ---
 
 ## 🌟 About Me  
 - 🎓 CSE Student  
 - 💻 Love coding in C++, Java, Python  
-- 📚 Exploring AI, Web Dev & Problem Solving  
+- 📚 Exploring AI, Web Dev & Problem Solving
+- 💼 Interned at FosteringLinux
 - 🌍 Open to collaborations and learning opportunities  
 
 ---
@@ -32,8 +33,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanishka8590&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka8590&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kanishka8590&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishka8590&layout=compact&theme=tokyonight&cache_seconds=1800" height="180"/>
 </p>
 
 ---
@@ -47,23 +48,22 @@
 
 ## 📌 Pinned Projects  
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka8590&repo=TaskManagementTool&theme=tokyonight" />
+  <a href="https://github.com/kanishka8590/ExamManagementSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka8590&repo=ExamManagementSystem&theme=tokyonight" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka8590&repo=WeatherApp&theme=tokyonight" />
+  <a href="https://github.com/kanishka8590/TicTacToe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka8590&repo=TicTacToe&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka8590&repo=ExamManagementSystem&theme=tokyonight" />
+  <a href="https://github.com/kanishka8590/ShoppingCartWebApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka8590&repo=ShoppingCartWebApp&theme=tokyonight" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka8590&repo=ShoppingCartWebapp&theme=tokyonight" />
+  <a href="https://github.com/kanishka8590/VoiceAssistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishka8590&repo=VoiceAssistant&theme=tokyonight" />
   </a>
 </p>
-
 ---
 
 
@@ -71,7 +71,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kanishka-sharma-13abb7351/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:ks8590@srmist.edu.in"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1HjMaf9jBIOGDtPV7-4oiobq8nxnJKvQs/view?usp=sharing"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" /></a> 
+  <a href="https://docs.google.com/document/d/1-l8PMOF-OE9IfIhA7XHj8Wq2ybx_HVpO/edit?usp=drivesdk&ouid=113361314249424559614&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=react&logoColor=white" /></a> 
 </p>
 
 ---
