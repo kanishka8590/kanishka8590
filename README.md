@@ -71,7 +71,7 @@ A Passionate Computer Science Engineering student exploring software development
 <p align="center">
   <a href="https://www.linkedin.com/in/kanishka-sharma-13abb7351/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:ks8590@srmist.edu.in"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://docs.google.com/document/d/1-l8PMOF-OE9IfIhA7XHj8Wq2ybx_HVpO/edit?usp=drivesdk&ouid=113361314249424559614&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=react&logoColor=white" /></a> 
+  <a href="https://drive.google.com/file/d/1s_kLBbV9oAkxNpq7fxUYGSVHj5cfdFq6/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=react&logoColor=white" /></a> 
 </p>
 
 ---
